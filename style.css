@@ -268,3 +268,15 @@ ul a{
 .Copyright{
     padding-top: 7px;
 }
+
+/* Responsive Design */
+
+@media (max-width: 1200px) {
+    .nav-search {
+        width: 40%;
+    }
+
+    .box {
+        width: 45%;
+    }   
+}
